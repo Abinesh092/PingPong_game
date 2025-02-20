@@ -1,3 +1,5 @@
+# Ping Pong Game using Turtle Module
+# Run this program using: python code.py
 from turtle import *
 import time as ts
 #get_input_from_user
