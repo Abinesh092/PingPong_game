@@ -13,7 +13,7 @@ s.tracer(0)
 p1=s.textinput("player1's Name","number not allowed")
 p2=s.textinput("player2's Name","number not allowed")
 wp=s.numinput("winning points","string not allowed",10,5,60)
-#left_pade
+# left_pade
 ls=Turtle()
 ls.penup()
 ls.goto(-390,0)
