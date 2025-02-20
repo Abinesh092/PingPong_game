@@ -29,7 +29,7 @@ rs.pendown()
 rs.color("white")
 rs.shape("square")
 rs.shapesize(5,1)
-#moveleft_pade
+# moveleft_pade
 def up():
         ls.penup()
         ls.sety(ls.ycor()+20)
