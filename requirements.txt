@@ -1,2 +1,6 @@
 # Python Version
 python>=3.6  # Ensure compatibility with older Python versions
+
+# Required Libraries
+turtle  # Built-in Python module for graphics
+time  # Used for delay and sleep functions
