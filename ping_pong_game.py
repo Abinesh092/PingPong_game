@@ -49,7 +49,7 @@ s.onkeypress(down,"s")
 s.onkeypress(rup,"o")
 s.onkeypress(rdown,"l")
 
-#ball
+# ball
 b=Turtle()
 b.color("white")
 b.shape("circle")
