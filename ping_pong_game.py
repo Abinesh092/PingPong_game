@@ -4,7 +4,7 @@ from turtle import *
 import time as ts
 #get_input_from_user
 
-#screen
+# screen
 s=Screen()
 s.setup(800,600)
 s.bgcolor("green")
