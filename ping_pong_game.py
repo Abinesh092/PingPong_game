@@ -21,7 +21,7 @@ ls.pendown()
 ls.color("white")
 ls.shape("square")
 ls.shapesize(5,1)
-#right_pade
+# right_pade
 rs=Turtle()
 rs.penup()
 rs.goto(380,0)
