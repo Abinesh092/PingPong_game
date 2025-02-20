@@ -2,7 +2,7 @@
 # Run this program using: python code.py
 from turtle import *
 import time as ts
-#get_input_from_user
+# get_input_from_user
 
 # screen
 s=Screen()
