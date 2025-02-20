@@ -9,7 +9,7 @@ s=Screen()
 s.setup(800,600)
 s.bgcolor("green")
 s.tracer(0)
-#get_input_from_user
+# get_input_from_user
 p1=s.textinput("player1's Name","number not allowed")
 p2=s.textinput("player2's Name","number not allowed")
 wp=s.numinput("winning points","string not allowed",10,5,60)
