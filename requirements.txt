@@ -6,6 +6,6 @@ turtle  # Built-in Python module for graphics
 time  # Used for delay and sleep functions
 
 # Development & Debugging Tools
-pylint  # Linter for checking Python code quality
+pylint 
 flake8  
 black  
