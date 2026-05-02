@@ -8,4 +8,4 @@ time  # Used for delay and sleep functions
 # Development & Debugging Tools
 pylint  # Linter for checking Python code quality
 flake8  # Code style and syntax checker
-black  # Code formatter to maintain clean code
+black  
