@@ -4,6 +4,7 @@ from turtle import *
 import time as ts
 # get_input_from_user
 #hhhhhhhhhhh
+#tyuo
 # screen
 s=Screen()
 s.setup(800,600)
